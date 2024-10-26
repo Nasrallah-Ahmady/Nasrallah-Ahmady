@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Nasrallah-Ahmady.Nasrallah-Ahmady" />
 
 <h1 align="center">
-    Hi There I'm Nasrallah Ahmad Ali!
+    Hi There I'm Nasrallah Ahmed Ali!
 </h1>
 
 <h3 align="center">A passionate software developer from Lebanon </h3>
@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on ** README file**
+ 🔭 I’m currently working on **README file**
  
  🌱 And learning **Python**
 
